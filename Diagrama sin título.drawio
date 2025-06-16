@@ -2140,7 +2140,7 @@
             <mxPoint x="-11" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V86sCHW_8b6O5bK29w6i-79" value="revisa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="V86sCHW_8b6O5bK29w6i-79" value="contiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1920" y="301.31999999999994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V86sCHW_8b6O5bK29w6i-80" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V86sCHW_8b6O5bK29w6i-79" target="nNGgeQ_z0Uofp1EWI5dg-95">
